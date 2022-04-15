@@ -9,6 +9,7 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
+    background: rgb(247, 244, 221);
 }
 
 ul {
@@ -38,7 +39,7 @@ button:focus {
 header {
     position: fixed;
     width: 100%;
-    background: rgb(140, 197, 243);
+    background: rgb(190, 168, 143);
     display: flex;
     flex-direction: row;
     z-index: 999;
@@ -67,7 +68,8 @@ nav {
 
 .nav-link>ul {
     display: flex;
-    font-size: 18px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
 }
 
 .nav-item {
@@ -115,7 +117,7 @@ nav {
     align-content: flex-start;
     padding: 10px 10px 12px 10px;
     font-weight: 1000;
-    font-size: 1.5em;
+    font-size: 1.8em;
     align-content: center;
 }
 
@@ -189,7 +191,7 @@ nav {
 
 footer {
     align-content: flex-end;
-    background: rgb(140, 197, 243);
+    background: rgb(190, 168, 143);
 }
 
 .footer-container {
@@ -260,6 +262,8 @@ div[class^="foot-col"] {
 .cart-items,
 .checkout {
     flex: 1;
+    font-size: 20px;
+    font-weight: 700;
 }
 
 .welcome-text {
@@ -335,8 +339,8 @@ div[class^="foot-col"] {
 }
 
 .prod-image>img {
-    max-height: 250px;
-    max-width: 250px;
+    max-height: 400px;
+    max-width: 400px;
 }
 
 .cart-prod-image {
@@ -346,7 +350,8 @@ div[class^="foot-col"] {
 }
 
 .cart-prod-image>img {
-    height: 60px;
+    height: 100px;
+    width: auto;
 }
 
 .edit-quant {
@@ -393,7 +398,7 @@ div[class^="foot-col"] {
 }
 
 #prod-title {
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 600;
     margin: 5px 0px;
 }
@@ -403,7 +408,7 @@ div[class^="foot-col"] {
     font-size: 18px;
     font-weight: 500;
     margin: 5px 0px;
-    color: rgb(194, 91, 32);
+    color: rgba(255, 0, 0, 0.973);
 }
 
 #cart-prod-title {
@@ -412,6 +417,7 @@ div[class^="foot-col"] {
 
 #prod-description {
     font-weight: 400;
+    font-size: 20px;
     letter-spacing: 0.5px;
 }
 
@@ -476,7 +482,7 @@ table {
         padding: 0px;
     }
     .nav-item {
-        margin-right: 8px;
+        margin-right: 4px;
         font-size: 14px;
     }
     .category-bar {
@@ -527,6 +533,7 @@ table {
     }
     #cart-prod-title {
         width: unset;
+        font-size: 20px;
         text-align: center;
     }
     .remove-cart-btn {
