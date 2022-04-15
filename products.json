@@ -1,7 +1,7 @@
 [{
         "id": "box_1",
         "name": "Shawshank Redemption",
-        "price": "80",
+        "price": "80.25",
         "description": "Andy Dufresne, a successful banker, is arrested for the murders of his wife and her lover, and is sentenced to life imprisonment at the Shawshank prison. He becomes the most unconventional prisoner.",
         "imageURL": "https://i.pinimg.com/originals/97/96/9e/97969ee04453f54f0faf837174f2f766.jpg",
         "category": "box-office"
@@ -9,7 +9,7 @@
     {
         "id": "box_2",
         "name": "The Godfather",
-        "price": "44",
+        "price": "44.34",
         "description": "The Godfather is a trilogy of American crime films directed by Francis Ford Coppola inspired by the 1969 novel of the same name by Italian American author Mario Puzo.",
         "imageURL": "https://wallpaperaccess.com/full/8066417.jpg",
         "category": "box-office"
@@ -17,7 +17,7 @@
     {
         "id": "box_3",
         "name": "The Irishman",
-        "price": "59",
+        "price": "59.11",
         "description": "In the 1950s, truck driver Frank Sheeran gets involved with Russell Bufalino and his Pennsylvania crime family. As Sheeran climbs the ranks to become a top hit man, he also goes to work for Jimmy Hoffa -- a powerful Teamster tied to organized crime.",
         "imageURL": "https://i.etsystatic.com/27475238/r/il/24bb49/2978566002/il_570xN.2978566002_gfk5.jpg",
         "category": "box-office"
@@ -25,7 +25,7 @@
     {
         "id": "box_4",
         "name": "Inception",
-        "price": "59",
+        "price": "59.99",
         "description": "Cobb steals information from his targets by entering their dreams. Saito offers to wipe clean Cobb's criminal history as payment for performing an inception on his sick competitor's son.",
         "imageURL": "https://m.media-amazon.com/images/I/7106uLYY2LL._AC_SL1111_.jpg",
         "category": "box-office"
@@ -33,7 +33,7 @@
     {
         "id": "box_5",
         "name": "L.A. Confidential",
-        "price": "39",
+        "price": "39.99",
         "description": "Three detectives from LAPD investigate multiple homicides. While unearthing the evidence and the suspects, the trail leads to corruption in their own department.",
         "imageURL": "https://i.pinimg.com/originals/9a/04/d5/9a04d56258d2862569a9d9d40fa72a1b.jpg",
         "category": "box-office"
@@ -41,7 +41,7 @@
     {
         "id": "box_6",
         "name": "Mad Max: Fury Road",
-        "price": "114",
+        "price": "114.50",
         "description": "In a post-apocalyptic wasteland, Max, a drifter and survivor, unwillingly joins Imperator Furiosa, a rebel warrior, in a quest to overthrow a tyrant who controls the land's water supply.",
         "imageURL": "https://pics.filmaffinity.com/Mad_Max_Fury_Road-542936842-large.jpg",
         "category": "box-office"
@@ -49,7 +49,7 @@
     {
         "id": "box_7",
         "name": "Forrest Gump",
-        "price": "77",
+        "price": "77.11",
         "description": "Forrest, a man with low IQ, recounts the early years of his life when he found himself in the middle of key historical events. All he wants now is to be reunited with his childhood sweetheart, Jenny.",
         "imageURL": "https://i.pinimg.com/originals/16/30/79/163079bbd395e5176f5906e3c15fab99.jpg",
         "category": "box-office"
@@ -57,7 +57,7 @@
     {
         "id": "series_1",
         "name": "Breaking Bad: Seasons I-V",
-        "price": "81",
+        "price": "81.99",
         "description": "Walter White, a chemistry teacher, discovers that he has cancer and decides to get into the meth-making business to repay his medical debts. His priorities begin to change when he partners with Jesse.",
         "imageURL": "https://flxt.tmsimg.com/assets/p185846_b_v8_ad.jpg",
         "category": "series"
@@ -65,7 +65,7 @@
     {
         "id": "series_2",
         "name": "Sons of Anarchy",
-        "price": "41",
+        "price": "41.99",
         "description": "Jax Teller, a man in his early 30s, struggles to find a balance in his life between being a new dad and his involvement in a motorcycle gang.",
         "imageURL": "https://m.media-amazon.com/images/I/61vGJcYxytL._AC_.jpg",
         "category": "series"
@@ -73,7 +73,7 @@
     {
         "id": "series_3",
         "name": "Peaky Blinders",
-        "price": "90",
+        "price": "90.25",
         "description": "Tommy Shelby, a dangerous man, leads the Peaky Blinders, a gang based in Birmingham. Soon, Chester Campbell, an inspector, decides to nab him and put an end to the criminal activities.",
         "imageURL": "https://m.media-amazon.com/images/I/61mQ7c-WSWS._AC_SY741_.jpg",
         "category": "series"

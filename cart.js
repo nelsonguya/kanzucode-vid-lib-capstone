@@ -23,7 +23,7 @@ function renderCart() {
 			<div class="cart-prod-data" >
 				<span id="cart-prod-title">${item.name}</span>
 				<span id="cart-prod-price">$ ${item.price}</span>
-				<span class="edit-quant"><button class="edit-count-btn" onClick="removeByOne('${index}')"><i class="material-icons">remove</i></button><input type="text" name="quantity" id="quantity" class="quant-input" value="${item.quantity}" readonly><button class="edit-count-btn" onClick="addByOne('${index}')"><i class="material-icons">add</i></button></span>
+				<span class="edit-quant"><button class="edit-count-btn" onClick="removeByOne('${index}')"><i class="fas fa-minus"></i></button><input type="text" name="quantity" id="quantity" class="quant-input" value="${item.quantity}" readonly><button class="edit-count-btn" onClick="addByOne('${index}')"><i class="fa-solid fa-plus"></i></button></span>
 			</div>
 			<form action="javascript:removeFromCart('${index}')" class="remove-cart-btn">
 							<button class="delete-btn" id="remove-from-cart" type="submit"><i class="material-icons">delete</i></button>

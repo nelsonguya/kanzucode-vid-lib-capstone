@@ -25,7 +25,7 @@ function getUser() {
 
 // Fetch data from products.json and store to local storage
 function loadJSON(PATH) {
-    var xhr = new XMLHttpRequest();
+    let xhr = new XMLHttpRequest();
     xhr.onreadystatechange = () => {
         if (xhr.readyState === XMLHttpRequest.DONE) {
             if (xhr.status === 200) {
